@@ -1,11 +1,13 @@
 # Week 01 — Physical Layer: Wireless Communications
 
+**Course:** EC 441, Spring 2026
+
+
 **Type:** Problem Set with Worked Solutions
 
 
 **Topic:** Physical Layer — path loss, link budgets, modulation, cellular reuse
 
-**Course:** EC 441, Spring 2026
 
 ---
 
@@ -83,7 +85,7 @@ $$
 P_r = 20 + 2 + 2 - 88.93 = -64.93 \text{ dBm}
 $$
 
-**(b)** Shadow fading adds a random variable $X_\sigma$ to the path loss, with typical $\sigma = 4–12 dB. With $\sigma = 8$ dB, a 10 dB fading margin only covers about 1.25σ of variation. Given that the slides recommend 10–20 dB of fading margin, 10 dB is at the low end and may not be reliable enough — especially in an indoor NLOS environment where fading can be severe. A margin of at least 16 dB (2σ) would provide more confidence.
+**(b)** Shadow fading adds a random variable $X_\sigma$ to the path loss, with typical $\sigma = 4–12$ dB. With $\sigma = 8$ dB, a 10 dB fading margin only covers about 1.25σ of variation. Given that the slides recommend 10–20 dB of fading margin, 10 dB is at the low end and may not be reliable enough — especially in an indoor NLOS environment where fading can be severe. A margin of at least 16 dB (2σ) would provide more confidence.
 
 In this case, the received power without fading is $-64.93$ dBm and typical WiFi sensitivity is around $-80$ to $-90$ dBm, giving us roughly 15–25 dB of margin before the link drops. So this link has enough headroom to handle shadow fading comfortably.
 
