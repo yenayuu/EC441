@@ -15,7 +15,7 @@ Submissions are organized by week and topic:
 ```
 EC441/
 ├── README.md
-├── week01-.../
+├── week01-physical-layer/
 ├── week02-.../
 ├── ...
 └── final_project/
@@ -26,7 +26,7 @@ EC441/
 **Topics covered:** *(will be updated as work is submitted)*
 
 - [ ] Information: sources, representation
-- [ ] Physical layer: media, propagation, signals, noise, data rates
+- [x] Physical layer: media, propagation, signals, noise, data rates
 - [ ] Link layer: frames, error control, CRC
 - [ ] Multiple access: ALOHA, CSMA
 - [ ] Ethernet: addressing, switching, ARP
@@ -44,7 +44,7 @@ EC441/
 
 **Layers covered:**
 
-- [ ] Physical
+- [x] Physical
 - [ ] Data Link
 - [ ] Network
 - [ ] Transport
@@ -52,6 +52,6 @@ EC441/
 
 **Types included:**
 
-- [ ] Problem
+- [x] Problem
 - [ ] Lab
 - [ ] Report
