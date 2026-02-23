@@ -2,6 +2,7 @@
 
 **Type:** Problem Set with Worked Solutions
 **Topic:** Physical Layer — path loss, link budgets, modulation, cellular reuse
+
 **Course:** EC 441, Spring 2026
 
 ---
