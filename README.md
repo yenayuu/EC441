@@ -16,7 +16,7 @@ Submissions are organized by week and topic:
 EC441/
 ├── README.md
 ├── week01-physical-layer/
-├── week05-ethernet/
+├── week02-ethernet/
 ├── ...
 └── final_project/
 ```
