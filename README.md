@@ -16,7 +16,7 @@ Submissions are organized by week and topic:
 EC441/
 ├── README.md
 ├── week01-physical-layer/
-├── week02-.../
+├── week05-ethernet/
 ├── ...
 └── final_project/
 ```
@@ -29,7 +29,7 @@ EC441/
 - [x] Physical layer: media, propagation, signals, noise, data rates
 - [ ] Link layer: frames, error control, CRC
 - [ ] Multiple access: ALOHA, CSMA
-- [ ] Ethernet: addressing, switching, ARP
+- [x] Ethernet: addressing, switching, ARP
 - [ ] Wireless networks: 802.11
 - [ ] Reliable data transfer: Stop-and-Wait, sliding window (GBN, SR)
 - [ ] Network layer: forwarding, routing, IP addressing, CIDR, subnetting
@@ -45,7 +45,7 @@ EC441/
 **Layers covered:**
 
 - [x] Physical
-- [ ] Data Link
+- [x] Data Link
 - [ ] Network
 - [ ] Transport
 - [ ] Application
@@ -54,4 +54,4 @@ EC441/
 
 - [x] Problem
 - [ ] Lab
-- [ ] Report
+- [x] Report
