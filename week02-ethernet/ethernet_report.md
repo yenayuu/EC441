@@ -1,4 +1,4 @@
-# Week 05 — Ethernet: Addressing, Switching, and ARP
+# Week 02 — Ethernet: Addressing, Switching, and ARP
 
 **Course:** EC 441, Spring 2026
 
