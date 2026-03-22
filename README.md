@@ -17,6 +17,7 @@ EC441/
 ├── README.md
 ├── week01-physical-layer/
 ├── week02-ethernet/
+├── week03-network-layer/
 ├── ...
 └── final_project/
 ```
@@ -32,7 +33,7 @@ EC441/
 - [x] Ethernet: addressing, switching, ARP
 - [ ] Wireless networks: 802.11
 - [ ] Reliable data transfer: Stop-and-Wait, sliding window (GBN, SR)
-- [ ] Network layer: forwarding, routing, IP addressing, CIDR, subnetting
+- [x] Network layer: forwarding, routing, IP addressing, CIDR, subnetting
 - [ ] Routing: Link State (Dijkstra), Distance Vector
 - [ ] Autonomous systems, BGP
 - [ ] IPv4, IPv6, DHCP, NAT
@@ -46,7 +47,7 @@ EC441/
 
 - [x] Physical
 - [x] Data Link
-- [ ] Network
+- [x] Network
 - [ ] Transport
 - [ ] Application
 
