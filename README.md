@@ -38,7 +38,7 @@ EC441/
 - [ ] Autonomous systems, BGP
 - [ ] IPv4, IPv6, DHCP, NAT
 - [ ] TCP: sequencing, connection management, congestion/flow control
-- [ ] Tools: ping, traceroute, Wireshark, Mininet, sockets
+- [x] Tools: ping, traceroute, Wireshark, Mininet, sockets
 - [ ] Applications: client/server, P2P
 - [ ] Web: HTTP, HTML
 - [ ] Security: cryptography, protocols
