@@ -18,6 +18,7 @@ EC441/
 ├── week01-physical-layer/
 ├── week02-ethernet/
 ├── week03-network-layer/
+├── week04-routing/
 ├── ...
 └── final_project/
 ```
@@ -34,8 +35,8 @@ EC441/
 - [ ] Wireless networks: 802.11
 - [ ] Reliable data transfer: Stop-and-Wait, sliding window (GBN, SR)
 - [x] Network layer: forwarding, routing, IP addressing, CIDR, subnetting
-- [ ] Routing: Link State (Dijkstra), Distance Vector
-- [ ] Autonomous systems, BGP
+- [x] Routing: Link State (Dijkstra), Distance Vector
+- [x] Autonomous systems, BGP
 - [ ] IPv4, IPv6, DHCP, NAT
 - [ ] TCP: sequencing, connection management, congestion/flow control
 - [x] Tools: ping, traceroute, Wireshark, Mininet, sockets
