@@ -19,6 +19,8 @@ EC441/
 ├── week02-ethernet/
 ├── week03-network-layer/
 ├── week04-routing/
+├── week05-layer/
+├── week06-tcp/
 ├── ...
 └── final_project/
 ```
@@ -38,7 +40,7 @@ EC441/
 - [x] Routing: Link State (Dijkstra), Distance Vector
 - [x] Autonomous systems, BGP
 - [ ] IPv4, IPv6, DHCP, NAT
-- [ ] TCP: sequencing, connection management, congestion/flow control
+- [x] TCP: sequencing, connection management, congestion/flow control
 - [x] Tools: ping, traceroute, Wireshark, Mininet, sockets
 - [ ] Applications: client/server, P2P
 - [ ] Web: HTTP, HTML
@@ -49,7 +51,7 @@ EC441/
 - [x] Physical
 - [x] Data Link
 - [x] Network
-- [ ] Transport
+- [x] Transport
 - [ ] Application
 
 **Types included:**
