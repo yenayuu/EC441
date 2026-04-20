@@ -21,9 +21,20 @@ EC441/
 ├── week04-routing/
 ├── week05-layer/
 ├── week06-tcp/
+├── week07-network-observability/
 ├── ...
 └── final_project/
 ```
+
+## Weekly Submissions
+
+- Week 01: `week01-physical-layer/physical_layer_problems.md`
+- Week 02: `week02-ethernet/ethernet_report.md`
+- Week 03: `week03-network-layer/network_layer_report.md`
+- Week 04: `week04-routing/routing_report.md`
+- Week 05: `week05-layer/network_layer_transport_report.md`
+- Week 06: `week06-tcp/tcp_report.md`
+- Week 07: `week07-network-observability/network_observability_report.md`
 
 ## Breadth Tracking
 
@@ -41,7 +52,7 @@ EC441/
 - [x] Autonomous systems, BGP
 - [ ] IPv4, IPv6, DHCP, NAT
 - [x] TCP: sequencing, connection management, congestion/flow control
-- [x] Tools: ping, traceroute, Wireshark, Mininet, sockets
+- [x] Tools: ping, traceroute, ip/ss, dig, tcpdump, Wireshark, pyshark
 - [ ] Applications: client/server, P2P
 - [ ] Web: HTTP, HTML
 - [ ] Security: cryptography, protocols
