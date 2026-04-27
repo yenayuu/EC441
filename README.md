@@ -35,6 +35,7 @@ EC441/
 - Week 05: `week05-layer/network_layer_transport_report.md`
 - Week 06: `week06-tcp/tcp_report.md`
 - Week 07: `week07-network-observability/network_observability_report.md`
+- Week 08: `week08-cryptography-security/cryptography_security_report.md`
 
 ## Breadth Tracking
 
@@ -55,7 +56,7 @@ EC441/
 - [x] Tools: ping, traceroute, ip/ss, dig, tcpdump, Wireshark, pyshark
 - [ ] Applications: client/server, P2P
 - [ ] Web: HTTP, HTML
-- [ ] Security: cryptography, protocols
+- [x] Security: cryptography, protocols
 
 **Layers covered:**
 
@@ -63,7 +64,7 @@ EC441/
 - [x] Data Link
 - [x] Network
 - [x] Transport
-- [ ] Application
+- [x] Application
 
 **Types included:**
 
