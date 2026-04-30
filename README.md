@@ -36,6 +36,7 @@ EC441/
 - Week 06: `week06-tcp/tcp_report.md`
 - Week 07: `week07-network-observability/network_observability_report.md`
 - Week 08: `week08-cryptography-security/cryptography_security_report.md`
+- Final Project: `final_project/` — Wireshark Traffic Analyzer ("What App Are You Really Using?")
 
 ## Breadth Tracking
 
