@@ -22,6 +22,8 @@ EC441/
 ├── week05-layer/
 ├── week06-tcp/
 ├── week07-network-observability/
+├── week08-cryptography-security/
+├── week09-filling-the-gaps/
 ├── ...
 └── final_project/
 ```
@@ -36,27 +38,28 @@ EC441/
 - Week 06: `week06-tcp/tcp_report.md`
 - Week 07: `week07-network-observability/network_observability_report.md`
 - Week 08: `week08-cryptography-security/cryptography_security_report.md`
+- Week 09: `week09-filling-the-gaps/filling_the_gaps_report.md` + `week09-filling-the-gaps/lab/` (CRC-16, Stop-and-Wait, hand-rolled HTTP client/server)
 - Final Project: `final_project/` — Wireshark Traffic Analyzer ("What App Are You Really Using?")
 
 ## Breadth Tracking
 
 **Topics covered:** *(will be updated as work is submitted)*
 
-- [ ] Information: sources, representation
+- [x] Information: sources, representation
 - [x] Physical layer: media, propagation, signals, noise, data rates
-- [ ] Link layer: frames, error control, CRC
-- [ ] Multiple access: ALOHA, CSMA
+- [x] Link layer: frames, error control, CRC
+- [x] Multiple access: ALOHA, CSMA
 - [x] Ethernet: addressing, switching, ARP
-- [ ] Wireless networks: 802.11
-- [ ] Reliable data transfer: Stop-and-Wait, sliding window (GBN, SR)
+- [x] Wireless networks: 802.11
+- [x] Reliable data transfer: Stop-and-Wait, sliding window (GBN, SR)
 - [x] Network layer: forwarding, routing, IP addressing, CIDR, subnetting
 - [x] Routing: Link State (Dijkstra), Distance Vector
 - [x] Autonomous systems, BGP
-- [ ] IPv4, IPv6, DHCP, NAT
+- [x] IPv4, IPv6, DHCP, NAT
 - [x] TCP: sequencing, connection management, congestion/flow control
 - [x] Tools: ping, traceroute, ip/ss, dig, tcpdump, Wireshark, pyshark
-- [ ] Applications: client/server, P2P
-- [ ] Web: HTTP, HTML
+- [x] Applications: client/server, P2P
+- [x] Web: HTTP, HTML
 - [x] Security: cryptography, protocols
 
 **Layers covered:**
@@ -70,5 +73,5 @@ EC441/
 **Types included:**
 
 - [x] Problem
-- [ ] Lab
+- [x] Lab
 - [x] Report
